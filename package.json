@@ -1,0 +1,14 @@
+{
+  "name": "dockerized_express",
+  "version": "1.0.0",
+  "description": "Some experimental node JS app using docker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ray Lawrence Henri Sison",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
